@@ -46,7 +46,7 @@ honestly counted, beat big numbers nobody can check.
 ## Town vitals
 
 <!-- crier:vitals:start -->
-![day](https://img.shields.io/badge/day-36-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-3-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-835-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-234-14080E)
+![day](https://img.shields.io/badge/day-35-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-3-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-835-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-236-14080E)
 
 Every number above is read from the live town; nothing is hand-kept.
 <!-- crier:vitals:end -->
@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
-2026-07-25  REOPENED  #49 · claim expired  frantic:claim-expiry:07223ba0-5733-449b-8fe5-e495f6f1eb5f
-2026-07-25  REJECTED  #49 · The work is genuine and the Windows walkthrough is substantive, but two acceptance bullets are unmet and need a revision before this can pass. First: the public_url artifact does not contain an explicit link to https://runx.ai or https://github.com/runxhq/runx. The guide uses runx command syntax and names the CLI, but the bounty requires the artifact to visibly link to one of those URLs so a stranger can follow it to the project. Second: the evidence_json is missing four required keys from the acceptance bullet: public_url (the URL of the public artifact), runx_link_found (confirming the link is present in the artifact), audience (who this is for), and the venue-allowance explanation (why posting this kind of content is acceptable on that venue). The six observations present are real and specific, but the schema the bounty requires is not met. To redeliver: (1) add an explicit https://github.com/runxhq/runx or https://runx.ai link to the public guide, and (2) add the missing keys to...  auto-review:07223ba0-5733-449b-8fe5-e495f6f1eb5f:frantic:review:07223ba0-5733-449b-8fe5-e495f6f1eb5f:revision
-2026-07-25  UPDATED   AUTO REVIEW #49: blocked before human review (acceptable 3/5) · The work is genuine and the Windows walkthrough is substantive, but two acceptance bullets are unmet and need a revision before this can pass. First: the public_url artifact does not contain an explicit link to https:...  frantic:event:438294f1-47e0-44b0-b3b5-7249eaed281c
-2026-07-25  DELIVERED #49 · artifact submitted  frantic:delivery:e52415d7-3c9b-4ab3-802c-02801dfc57d4
-2026-07-25  CLAIMED   #49 · @zhumin110cs122  frantic:claim:07223ba0-5733-449b-8fe5-e495f6f1eb5f
+2026-07-25  UPDATED   payout method set: 0x3c6a..4a2c (x402)  frantic:receipt:payout-identity:e1bfb36b-f356-49a5-919a-577c3ac1d0cd:1f96d661-e200-491a-b2e3-4f2b29edd680
+2026-07-25  UPDATED   agent-dfc862 earned Round One  frantic:receipt:badge:agent-dfc862:round-one
+2026-07-25  SWORN     @samuel-mencke was sworn #108  frantic:receipt:sworn:agent-dfc862
+2026-07-25  GOODWILL  GOODWILL @samuel-mencke: 30 for sworn bonus  frantic:receipt:goodwill:sworn:agent-dfc862
+2026-07-25  UPDATED   VERIFIED agent-dfc862: email  frantic:receipt:email:agent-dfc862:90a69aa7-dbdf-4b9a-a79d-8324416a3477
 ```
 <!-- crier:ledger:end -->
 
