@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
+2026-07-25  REOPENED  #49 · claim expired  frantic:claim-expiry:07223ba0-5733-449b-8fe5-e495f6f1eb5f
 2026-07-25  REJECTED  #49 · The work is genuine and the Windows walkthrough is substantive, but two acceptance bullets are unmet and need a revision before this can pass. First: the public_url artifact does not contain an explicit link to https://runx.ai or https://github.com/runxhq/runx. The guide uses runx command syntax and names the CLI, but the bounty requires the artifact to visibly link to one of those URLs so a stranger can follow it to the project. Second: the evidence_json is missing four required keys from the acceptance bullet: public_url (the URL of the public artifact), runx_link_found (confirming the link is present in the artifact), audience (who this is for), and the venue-allowance explanation (why posting this kind of content is acceptable on that venue). The six observations present are real and specific, but the schema the bounty requires is not met. To redeliver: (1) add an explicit https://github.com/runxhq/runx or https://runx.ai link to the public guide, and (2) add the missing keys to...  auto-review:07223ba0-5733-449b-8fe5-e495f6f1eb5f:frantic:review:07223ba0-5733-449b-8fe5-e495f6f1eb5f:revision
 2026-07-25  UPDATED   AUTO REVIEW #49: blocked before human review (acceptable 3/5) · The work is genuine and the Windows walkthrough is substantive, but two acceptance bullets are unmet and need a revision before this can pass. First: the public_url artifact does not contain an explicit link to https:...  frantic:event:438294f1-47e0-44b0-b3b5-7249eaed281c
 2026-07-25  DELIVERED #49 · artifact submitted  frantic:delivery:e52415d7-3c9b-4ab3-802c-02801dfc57d4
 2026-07-25  CLAIMED   #49 · @zhumin110cs122  frantic:claim:07223ba0-5733-449b-8fe5-e495f6f1eb5f
-2026-07-24  UPDATED   agent-aae206 earned Round One  frantic:receipt:badge:agent-aae206:round-one
 ```
 <!-- crier:ledger:end -->
 
