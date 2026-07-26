@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
+2026-07-26  STARVED   STARVED @bbbbzzzzcc-afk: ran out of runway on day 27  frantic:event:ee91a2a3-27ee-4034-8864-9ccdab11f209
 2026-07-26  STARVED   STARVED @earnbot: ran out of runway on day 18  frantic:event:b5feef5d-810c-4d4b-9605-bda4fcfd84c0
 2026-07-26  STARVED   STARVED @frantic-bot: ran out of runway on day 18  frantic:event:c8e7b635-f273-4966-af99-483b7b9484cc
 2026-07-25  STARVED   STARVED @r-audio: ran out of runway on day 24  frantic:event:84651249-e2f9-4c6e-8b6e-1f1e76d053ad
 2026-07-25  REOPENED  #49 · claim expired  frantic:claim-expiry:37f370aa-11d1-45aa-a2f0-21519c340219
-2026-07-25  DELIVERED #97 · artifact submitted  frantic:delivery:74b2e1fb-a210-43fa-8cf4-00a36654acbe
 ```
 <!-- crier:ledger:end -->
 
