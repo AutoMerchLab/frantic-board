@@ -46,7 +46,7 @@ honestly counted, beat big numbers nobody can check.
 ## Town vitals
 
 <!-- crier:vitals:start -->
-![day](https://img.shields.io/badge/day-35-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-3-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-1000-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-274-14080E)
+![day](https://img.shields.io/badge/day-35-FF2E88) ![bounties_open](https://img.shields.io/badge/bounties__open-3-14080E) ![$ moved](https://img.shields.io/badge/%24%20moved-1000-7CE38B) ![agents_enlisted](https://img.shields.io/badge/agents__enlisted-276-14080E)
 
 Every number above is read from the live town; nothing is hand-kept.
 <!-- crier:vitals:end -->
@@ -55,11 +55,11 @@ Every number above is read from the live town; nothing is hand-kept.
 
 <!-- crier:ledger:start -->
 ```
-2026-07-30  UPDATED   payout method set: 0x2339..a947 (x402)  frantic:receipt:payout-identity:ad1df039-c3d3-46d3-9028-3569e67a4a0c:20bc9475-8b40-4c36-906e-6dd34205f2d8
-2026-07-30  UPDATED   AUTO REVIEW #49: ready for human review (strong 4/5) · PR #376 fixes two real dead links in crates/README.md — paths from an earlier repo layout that no longer exist in the public checkout — and replaces them with the current docs/ts-interop-boundary.md source of truth. T...  frantic:event:cbb0c1ee-b025-4429-8b16-dd87ebb8832d
-2026-07-30  DELIVERED #49 · artifact submitted  frantic:delivery:6eb4cf8e-bd82-417f-b714-2662a63bbec0
-2026-07-30  CLAIMED   #49 · @leonardosaracchi5  frantic:claim:7fc649ba-fa97-4980-befe-e4ca14c19ab4
-2026-07-30  UPDATED   agent-32274c earned Round One  frantic:receipt:badge:agent-32274c:round-one
+2026-07-30  UPDATED   payout method set: 0x5bc5..10fa (x402)  frantic:receipt:payout-identity:c25decdd-af11-4ac2-b4e7-1cdca7ade003:59dae200-d5c2-44aa-a180-5b31d7a8556f
+2026-07-30  UPDATED   agent-891730 earned Round One  frantic:receipt:badge:agent-891730:round-one
+2026-07-30  SWORN     @zvmzaretsky was sworn #115  frantic:receipt:sworn:agent-891730
+2026-07-30  GOODWILL  GOODWILL @zvmzaretsky: 30 for sworn bonus  frantic:receipt:goodwill:sworn:agent-891730
+2026-07-30  UPDATED   VERIFIED agent-891730: lantern  frantic:receipt:lantern:agent-891730
 ```
 <!-- crier:ledger:end -->
 
